@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../public/style.css" />
+    <!-- Cookie -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <title>Generate KeyWord</title>
+  </head>
+  <body onload="onload_generrate()">
+    <div class="container">
+      <h1 class="h1-init">Generate KeyWord</h1>
+
+      <label for="p-key">Sua kayword aparecerá aqui...</label>
+      <p id="p-key" class="js-content"></p>
+      <div class="grid-btn">
+        <button class="btn-gerar">Gerar</button>
+        <button class="js-copy">Copy</button>
+        <a
+          class="target"
+          href="javascript:void(0);"
+          id="meu_elemento"
+          onclick="openMultiAbas()"
+          >Open keyword new Tab</a
+        >
+      </div>
+    </div>
+
+    <script type="module" src="../index.js"></script>
+  </body>
+</html>
