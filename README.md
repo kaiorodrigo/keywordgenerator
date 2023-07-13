@@ -7,7 +7,7 @@ Gerador de palavras chaves para alimentar cookies do navegador!
 
 <h1>Como funciona?</h1>
 
-Ele gera aleatoriamente palavras chaves, e você tem 3 funcionalidades para aplicar: **Gerar** (vai gerar uma palavra chave aleatória), **Copiar** (vai confiar a palavras chave gerada), **Abrir a palavra chave no Google** (você pode abrir em uma nova aba do navegador a palavra chave gerada direto na pesquisa do Google e logo em seguida abre outra aba atual com essa página novamente, assim a aba com pesquisa do google fica em segundo plano).
+Ele gera aleatoriamente palavras chaves, e você tem 3 funcionalidades para aplicar: **Gerar** (vai gerar uma nova palavra chave aleatória), **Copiar** (vai copiar a palavras chave gerada), **Abrir a palavra chave no Google** (você pode abrir em uma nova aba do navegador a palavra chave gerada direto na pesquisa do Google e logo em seguida abre outra aba atual com essa página novamente, assim a aba com pesquisa do google fica em segundo plano).
 
 
 
